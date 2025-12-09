@@ -1,30 +1,20 @@
-## Hi there 👋
 
-<!--
-**Romisha08/Romisha08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Romisha Biswas</h1>
 <h3 align="center">Aspiring Software Developer | Full-Stack & AI Applications |  National Institute Of Technology Jamshedpur</h3>
 
 ---
 ## 🌟 About Me — Who Am I?
-I’m a passionate **Final Year Student** with experience in building **full-stack** and **AI-integrated applications**.  
-I love solving real-world problems using **modern frameworks**, **clean architecture**, and **scalable systems**.  
-Strong foundations in **DSA, DBMS, Operating Systems, and Networking**.  
-Currently pursuing **B.Tech in Electronics & Communication at NIT Jamshedpur**.
 
----
+I’m a passionate **Final Year Student** with experience in building **full-stack** and **AI-integrated applications**.  
+I love solving real-world problems using **modern frameworks**, **clean architecture**, and **scalable systems**.
+
+**And honestly?**  
+Shinchan is my ideal.  
+He takes life lightly, stays optimistic even in disasters, and somehow always pulls through —  
+I relate way too much.
+
+I’m basically the *real-life Shinchan*, laughing my way through life and engineering .
+
 
 ## 🚀 What Am I Currently Working On?
 
@@ -69,9 +59,6 @@ Improving my DSA fundamentals & computer science depth
 ---
 
 ## 🔗 Connect With Me
-
-📧 **Email:** romisha08b@gmail.com  
-📞 **Phone:** +91-7980054275  
 💼 **LinkedIn:** *https://www.linkedin.com/in/romisha-b-29285b271*  
 🐙 **GitHub:** *https://www.github.com/Romisha08*  
 
