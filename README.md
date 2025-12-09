@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Romisha Biswas</h1>
-<h3 align="center">Aspiring Software Developer | Full-Stack & AI Applications | ECE @ NIT Jamshedpur</h3>
+<h3 align="center">Aspiring Software Developer | Full-Stack & AI Applications |  National Institute Of Technology Jamshedpur</h3>
 
 ---
 ## 🌟 About Me — Who Am I?
