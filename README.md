@@ -4,9 +4,11 @@
 ## 🌟 About Me — Who Am I?
 
 I’m a passionate **Final Year Student** with experience in building **full-stack** and **AI-integrated applications**.I love solving real-world problems using **modern frameworks**, **clean architecture**, and **scalable systems**.
-
+<p align="center">
+  <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/shin-chan-1/sticker_10.png?558c77463d6734e916bfa408e3c6ae66&d=150x150" alt="shinchan-sticker" width="120"/>
+</p>
 **And honestly?**  
-Shinchan is my ideal.  
+Shinchan is my ideal. 
 He takes life lightly, stays optimistic even in disasters, and somehow always pulls through — I relate way too much.
 
 I’m basically the *real-life Shinchan*, laughing my way through life and engineering .
