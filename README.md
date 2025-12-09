@@ -1,17 +1,13 @@
-
-<h1 align="center">Hi 👋, I'm Romisha Biswas</h1>
+<h2 align="center">Hi 👋, I'm Romisha Biswas</h2>
 <h3 align="center">Aspiring Software Developer | Full-Stack & AI Applications |  National Institute Of Technology Jamshedpur</h3>
 
----
 ## 🌟 About Me — Who Am I?
 
-I’m a passionate **Final Year Student** with experience in building **full-stack** and **AI-integrated applications**.  
-I love solving real-world problems using **modern frameworks**, **clean architecture**, and **scalable systems**.
+I’m a passionate **Final Year Student** with experience in building **full-stack** and **AI-integrated applications**.I love solving real-world problems using **modern frameworks**, **clean architecture**, and **scalable systems**.
 
 **And honestly?**  
 Shinchan is my ideal.  
-He takes life lightly, stays optimistic even in disasters, and somehow always pulls through —  
-I relate way too much.
+He takes life lightly, stays optimistic even in disasters, and somehow always pulls through — I relate way too much.
 
 I’m basically the *real-life Shinchan*, laughing my way through life and engineering .
 
