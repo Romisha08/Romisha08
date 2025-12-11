@@ -1,41 +1,42 @@
-<h2 align="center">Hi 👋, I'm Romisha Biswas</h2>
+<h2 align="center">Hi, I'm Romisha Biswas</h2>
 <h3 align="center">Aspiring Software Developer | Full-Stack & AI Applications |  National Institute Of Technology Jamshedpur</h3>
 
-## 🌟 About Me — Who Am I?
-
+### About Me — Who Am I?
 I’m a passionate **Final Year Student** with experience in building **full-stack** and **AI-integrated applications**.I love solving real-world problems using **modern frameworks**, **clean architecture**, and **scalable systems**.
 <p align="center">
   <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/shin-chan-1/sticker_10.png?558c77463d6734e916bfa408e3c6ae66&d=150x150" alt="shinchan-sticker" width="120"/>
 </p>
-**And honestly?**  
+
+**And honestly?**
 Shinchan is my ideal. 
 He takes life lightly, stays optimistic even in disasters, and somehow always pulls through — I relate way too much.
 
 I’m basically the *real-life Shinchan*, laughing my way through life and engineering .
 
 
-## 🚀 What Am I Currently Working On?
+### What Am I Currently Working On?
 
-### 🔹 **Virtual Try-On Website**  
+ **Virtual Try-On Website**  
 AI-powered platform where users upload a photo and try outfits virtually using **Gemini Vision API**.  
 **Tech:** Next.js, React, Node.js, MongoDB, TailwindCSS, Gemini API  
 
 ---
 
-### 🔹 **DSA Progress**  
+ **DSA Progress**  
 Improving my DSA fundamentals & computer science depth
 
 ---
 
-## 🛠️ Tools & Technologies I Use
-
-### 💻 **Programming Languages**
+### Tools & Technologies I Use
+ **Programming Languages**
+ 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧩 **Full-Stack Development**
+**Full-Stack Development**
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -45,7 +46,8 @@ Improving my DSA fundamentals & computer science depth
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧰 **Tools & Platforms**
+ **Tools & Platforms**
+ 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -56,9 +58,9 @@ Improving my DSA fundamentals & computer science depth
 
 ---
 
-## 🔗 Connect With Me
-💼 **LinkedIn:** *https://www.linkedin.com/in/romisha-b-29285b271*  
-🐙 **GitHub:** *https://www.github.com/Romisha08*  
+## Connect With Me
+ **LinkedIn:** *https://www.linkedin.com/in/romisha-b-29285b271*  
+ **GitHub:** *https://www.github.com/Romisha08*  
 
 ---
 
